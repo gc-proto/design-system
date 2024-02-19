@@ -1,7 +1,7 @@
 ---
 altLangPage: https://conception.canada.ca/styles/typographie.html
 date: null
-dateModified: '2018-10-01'
+dateModified: '2024-02-19'
 description: null
 title: Typography style
 ---
