@@ -68,6 +68,10 @@
   "urlconception": "https://conception.canada.ca",
   "urlcanadaca": "https://www.canada.ca",
   "urlblogca": "https://blog.canada.ca",
+  "emails": {
+    "dto": "cds.dto-btn.snc@servicecanada.gc.ca",
+    "atip": "ATIP.AIPRP@tbs-sct.gc.ca"
+  },
   "webmaster_verifications": {
     "google": "Nt_CftRIypA9xVS7Znb2VkrsYbtIDuFWHryxSAC6OwM",
     "yandex": "b8834a99b9021b0e"
@@ -519,6 +523,35 @@
             "link": "https://design.canada.ca/style-guide/"
           }
         ]
+      }
+    },
+    {
+      "scope": {
+        "path": "research-summaries/*.md"
+      },
+      "values": {
+        "section-title": "Research summary",
+        "breadcrumbs": [{
+            "title": "About Canada.ca",
+            "link": "https://design.canada.ca/about/"
+          },
+          {
+            "title": "Research summaries",
+            "link": "https://design.canada.ca/research-summaries/"
+          }
+        ]
+      }
+    },
+    {
+      "scope": {
+        "path": "research-summaries/index.md"
+      },
+      "values": {
+        "section-title": "",
+        "breadcrumbs": [{
+          "title": "About Canada.ca",
+          "link": "https://design.canada.ca/about/"
+        }]
       }
     },
     {
